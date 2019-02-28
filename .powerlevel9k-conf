@@ -1,0 +1,26 @@
+# Theme config
+# antigen theme bhilburn/powerlevel9k powerlevel9k
+
+POWERLEVEL9K_INSTALLATION_PATH=$ANTIGEN_BUNDLES/bhilburn/powerlevel9k/powerlevel9k.zsh-theme
+
+# The following line must be before loading antigen:
+# POWERLEVEL9K_MODE='nerdfont-complete'
+# POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+
+POWERLEVEL9K_TIME_FORMAT="%D{%X}"
+POWERLEVEL9K_DATE_FORMAT="%D{%a,%d.%b}"
+
+# Std has become an ugly M or such
+# POWERLEVEL9K_OK_ICON=$'\UF00C'
+# POWERLEVEL9K_FAIL_ICON=$'\UF00D'
+
+# POWERLEVEL9K_VCS_GIT_ICON=$'\UF296'
+# POWERLEVEL9K_VCS_TAG_ICON=$'\UF121'
+# F1D3 is the general git icon
+
+POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
+POWERLEVEL9K_MULTILINE_SECOND_PROMPT_PREFIX="\UF120 "
+
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir vcs)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(command_execution_time status time date)
+
