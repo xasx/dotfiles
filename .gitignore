@@ -1,4 +1,5 @@
 !.gitignore
 !.zshrc
 !.powerlevel9k-conf
+!README.md
 *
