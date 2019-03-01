@@ -44,7 +44,7 @@ export LESS=' -R '
 export PATH=$HOME/bin:/usr/local/bin:/usr/local/git/bin:/usr/local/hg/bin:$HOME/lib/gsc/bin:$PATH
 export MANPATH="/usr/local/man:/usr/local/git/share/man:/usr/local/hg/share/man:$MANPATH"
 
-export PATH="/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/aschoeneck/.cargo/bin:$PATH"
+export PATH="/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/aschoeneck/.cargo/bin:/home/aschoeneck/.local/bin:$PATH"
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/home/aschoeneck/.sdkman"
