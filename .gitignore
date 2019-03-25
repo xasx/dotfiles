@@ -1,5 +1,6 @@
 !.gitignore
 !.zshrc
 !.powerlevel9k-conf
+!.config/fish/config.fish
 !README.md
 *
