@@ -1,7 +1,7 @@
 # Theme config
 # antigen theme bhilburn/powerlevel9k powerlevel9k
 
-POWERLEVEL9K_INSTALLATION_PATH=$ANTIGEN_BUNDLES/bhilburn/powerlevel9k/powerlevel9k.zsh-theme
+POWERLEVEL9K_INSTALLATION_PATH=$ZPLUG_REPOS/bhilburn/powerlevel9k/powerlevel9k.zsh-theme
 
 # The following line must be before loading antigen:
 # POWERLEVEL9K_MODE='nerdfont-complete'
