@@ -1,0 +1,13 @@
+{
+    "__meta__": {
+        "about": "HTTPie configuration file",
+        "help": "https://httpie.org/doc#config",
+        "httpie": "1.0.2"
+    },
+    "default_options": [
+        "--verbose",
+        "--pretty=all",
+        "--style=fruity",
+        "--verify=/etc/ssl/certs/ca-bundle.crt"
+    ]
+}
