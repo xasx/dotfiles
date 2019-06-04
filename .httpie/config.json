@@ -7,7 +7,7 @@
     "default_options": [
         "--verbose",
         "--pretty=all",
-        "--style=fruity",
+        "--style=auto",
         "--verify=/etc/ssl/certs/ca-bundle.crt"
     ]
 }
