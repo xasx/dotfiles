@@ -5,3 +5,4 @@ set -g theme_display_vi no
 set -g theme_display_user ssh
 
 eval (/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+thefuck --alias | source
