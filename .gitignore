@@ -3,6 +3,7 @@
 !.powerlevel9k-conf
 !.config/fish/config.fish
 !.config/fish/fishfile
+!.config/powershell
 !.config/omf
 !README.md
 !.httpie
